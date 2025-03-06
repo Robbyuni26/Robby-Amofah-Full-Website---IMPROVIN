@@ -1,4 +1,4 @@
-/* jshint esversion: 6 */
+/* jshint esversion: 6 */ 
 
 // Select all my  navigation links and add smooth scrolling effect to it ,so users can see the animation on the website when they using thier phones //
 document.querySelectorAll('nav a').forEach(anchor => { //  Also toggles the mobile menu when the menu button is clicked.  //
