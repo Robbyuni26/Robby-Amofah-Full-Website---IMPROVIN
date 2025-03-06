@@ -12,7 +12,7 @@ document.querySelectorAll('nav a').forEach(anchor => { //  Also toggles the mobi
     
                 window.scrollTo({ //For example in this case Instead of an instant jump, we want a smooth scrolling effect,due to that is going to Prevent the default action  and allows ,me to override the browser’s behavior and replace it with this code  //
                     top: targetSection.offsetTop - 70, //  which will then ensures the page scrolls smoothly instead of jumping directly. //
-                    behavior: 'smooth' //  And enables smooth scrolling //
+                    behavior: 'smooth' //  And enables smooth scrolling // 
                 });
             }
              
