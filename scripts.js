@@ -15,7 +15,7 @@ document.querySelectorAll('nav a').forEach(anchor => { //  Also toggles the mobi
                     behavior: 'smooth' //  And enables smooth scrolling //
                 });
             }
-            
+             
         });
         
     }); // Toggle mobile navigation menu when the menu button is clicked so my menu section appears on the right on the mobile responsive //
